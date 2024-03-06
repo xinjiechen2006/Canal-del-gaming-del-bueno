@@ -1,6 +1,6 @@
 # Canal-del-gaming-del-bueno
 
-**YOWAI MO**
+**YOWAI MO (para poner negrita)**
 
 # mas importante
 ## menos importante
