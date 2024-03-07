@@ -1,4 +1,4 @@
-# Clase de Video Juegos
+# Clase de Video Juegos (Apuntes)
 
 ![persona 5 city night](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/79f127a9-4c9f-4e7e-b3a5-de3cf9c29a1f)
 
