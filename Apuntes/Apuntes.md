@@ -3,7 +3,7 @@
 ![persona 5 city night](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/79f127a9-4c9f-4e7e-b3a5-de3cf9c29a1f)
 
 # La moneda virtual
-
+## ¿Que es?
 Las criptomonedas son especulación Fungible y no fungible 
 
 Los NFT son una estafa, es similar a las criptomonedas, al igual que un euro tiene un valor que ha sido anteriormente dado por una sociedad. Por otro lado, las criptomonedas son un tipo de especulación, que se especula que tendrán un valor en el futuro, no en el presente sino en el futuro. Pasar criptomonedas a otra persona querrá decir que será publica la transacción, no como en un banco, que será privado. Al segundo solo se pueden hacer un total de 15 transacciones en todo el planeta, el procesador se pone a resolver un puzle y los pone en una cola para hacer la transacción. 
