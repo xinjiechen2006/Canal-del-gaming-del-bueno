@@ -20,6 +20,7 @@ La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para
 ## Ejemplo
 ### Bitcoin
 #### Valor en el mercado
+![23673](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/7f92fa90-4508-4cb7-a10e-598afd395443)
 
 # NFT
 ## ¿Que es?
