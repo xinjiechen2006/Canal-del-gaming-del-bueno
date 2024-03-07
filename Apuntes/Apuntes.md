@@ -9,6 +9,9 @@ La moneda virtual ha sido definida como un tipo de dinero digital no regulado, c
 # Criptomoneda
 ## ¿Que es?
 La criptomoneda 
+## Ejemplo
+### Bitcoin
+#### Valor en el mercado
 
 # NFT
 ## ¿Que es?
@@ -16,3 +19,9 @@ La criptomoneda
 # ¿Porque son consideradas una estafa?
 # ¿Cómo se pueden utilizar?
 # ¿Cúal es su valor exacto?
+# Términos:
+### Fungible
+### No fungible
+### Transacción
+### Block chain
+### Minear
