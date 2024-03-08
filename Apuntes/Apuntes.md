@@ -33,6 +33,13 @@ El momento más nototrio de la criptomoenda se remonta en el 2008, cuando unos i
 Bitcoin en el 8 de Marzo del 2024
 
 ## Diferencia con la moneda virtual
+1. La moneda virtual suele ser emitida por una entidad centralizada, por otro lado, las criptomonedas dependen de la participación de la comunidad para sobrevivir.
+2. Las monedas virtuales viven en una base de datos dentralizada de internet, mientras que las criptomonedas se desarrollan con el blockchain.
+3. Las transacciones de criptomonedas es pública a diferencia de la moneda virtual, que suelen mantenerse en secreto.
+4. El precio de las criptomonedas es impredecible, factor que lo convierte en especulación.
+5. En las transacciones de las monedas virtuales, se puede solicitar devoluciones, en cambio, en las criptomonedas, en su mayoría son irreversibles.
+6. La mayoría de los gobiernos establecen normativas claras para el uso de las monedas digitales, pero por el lado de las criptomonedas, los reguladores aún están en proceso de crear leyes.
+
 
 # NFT
 ## ¿Que es?
