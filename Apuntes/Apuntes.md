@@ -43,10 +43,13 @@ Bitcoin en el 8 de Marzo del 2024
 
 # NFT
 ![XS1Vpn0DfiMjxmLrBFNuXkFTAF78ek86eIoH4bK_VB0-1](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/5ec64263-a1fe-4154-b06d-d7725c76bf04)
-
 ## ¿Que es?
+Los NFT (Non-fungible Token) es un tipo de activo digital que representa un a propiedad única utilizando el blockchain. A diferencia de las criptomonedas que son fungibles de alguna manera, los NFT son únicos, lo que querrá decir que cada NFT tendrá datos que los distinguiran de los otros. Esto se hace para certificar y convertirlo en algo unico y asi certificar su autenticidad o rareza.
+Los NFT pueden verse de diferentes manera, se han visto NFT como arte digital, videos, juegos, música y etc. Estos mismos pueden ser comprados/vendidos/intercambiados a través del blockchain. 
 
 # ¿Porque son consideradas una estafa?
+Los NFT pueden considerarse una estafa debido a lo que es, como se ha mostrado arriba en la imagen del toro, eso es un NFT, lo que demuestra que incluso alguien externo puede conseguir aluna copia. Es como se ha mencionado, es literalmente algo intangible, el precio es especulación y no es dada por un estado centralizado o ninguno por el estilo, los precios pueden ser desorbitantes a pesar del valor original que estas podrían tener, que es 0. En clase se ha dado el ejemplo del Lamborghini, donde una persona se gasta un dineral en el coche, para autentificar o justificar el pago, se le da un tiquet que confirma el hecho, pero el dueño decide vender el tiquet haciendo ver que esta vendiendo el coche. En este ejemplo el dueño le esta vendiendo un papel con letras sin valor alguno, ya que el coche ya estaría al nombre del dueño, con lo que se convertiría en una especie de estafa.
+
 # ¿Cómo se pueden utilizar?
 # ¿Cúal es su valor exacto?
 # Términos:
