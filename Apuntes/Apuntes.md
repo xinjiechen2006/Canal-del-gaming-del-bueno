@@ -15,7 +15,8 @@ La moneda virtual como lo dice el nombre mismo, es una moneda digital, lo que qu
 
 # Criptomoneda
 ## ¿Que es?
-La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda virtual descentralizada utilizando el block chain
+La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda virtual descentralizada utilizando el block chain, que es una especie de registro público donde a diferencia de las transacciones de los bancos que son privadas, en esta es pública. Aunque eso no signifique que la identidad del individuo será revelada, solo la transacción es pública. Como se ha podido ver, a lo largo de los años, la criptomoneda se ha vuelto muy popular entre la población, haciendo que su valor suba de una manera impredecible, actualmente en Marzo de 2024, su valor en el mercado sigue subiendo
+
 ![im-storie-guia-para-saber-que-son-las-criptomonedas-3](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/f1926932-10d4-44ea-9af0-96c868e44971)
 ## Diferencia con la moneda virtual
 ## Ejemplo
