@@ -53,7 +53,7 @@ Los NFT pueden considerarse una estafa debido a lo que es, como se ha mostrado a
 ![me-acusan-de-estafa](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/45c64f15-36fa-4c1b-96a3-27a60f77ed38)
 
 
-# ¿Cómo se pueden utilizar (Criptomonedas/NFT)?
+# ¿Cómo se pueden utilizar (Criptomonedas)?
 Las criptomonedas hoy en dia son aceptadas como métodos de pago en una gran variedad de establecimientos, productos y servicios. Ejemplos:
 - Bienes y servicios en línea
 - Viajes
