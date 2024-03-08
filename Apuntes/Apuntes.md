@@ -11,6 +11,7 @@ La moneda virtual como lo dice el nombre mismo, es una moneda digital, lo que qu
 **Centralizado**: En el contexto de moneda virtual, centralizado se refiere a un sistema en el que la emisión, el control y la gestión es tomada por una entidad centralizada, un ejemplo podría ser una empresa o el gobierno mismo.
 
 **Descentralizado**: Es totalmente lo contrario a centralizado, la moneda no está respaldada por alguna empresa o gobierno en especifico.
+## ¿Como funciona?
 
 # Criptomoneda
 ## ¿Que es?
