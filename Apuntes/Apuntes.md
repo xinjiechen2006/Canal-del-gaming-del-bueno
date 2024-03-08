@@ -29,6 +29,7 @@ La creación de la criptomoneda se remonta a los años 1980, una de sus primeras
 El momento más nototrio de la criptomoenda se remonta en el 2008, cuando unos individuos anónimos bajo el seudónimo de Sataoshi Nakamoto publicó un documento que se llamaba **Bitcoin**. Este fue creado por un sistema descentralizado con el blockchain, donde en 2009 un año después, sería publicada haciendola la primera criptomoneda funcional. Desde ese entonces su precio ha ido creciendo de una manera desorbitada a partir de más o menos 2020, aunque anteriormente su precio también alcanzó numeros altos. Hoy en dia en la actualidad, el Bitcoin ha escalado al valor de que un solo Bitcoin te puede valer **61543.32€**, a raíz de este, muchas más criptomonedas se han hecho popular, ejemplos como: Ethereum, Ripple, Litecoin...
 
 ![Captura de pantalla 2024-03-08 a las 9 39 12](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/75ea2224-98c4-4a72-8f10-8edc7f0d4f8b)
+Bitcoin en el 8 de Marzo del 2024
 
 ## Diferencia con la moneda virtual
 
