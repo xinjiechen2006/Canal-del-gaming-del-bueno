@@ -50,11 +50,27 @@ Los NFT pueden verse de diferentes manera, se han visto NFT como arte digital, v
 # ¿Porque son consideradas una estafa?
 Los NFT pueden considerarse una estafa debido a lo que es, como se ha mostrado arriba en la imagen del toro, eso es un NFT, lo que demuestra que incluso alguien externo puede conseguir aluna copia. Es como se ha mencionado, es literalmente algo intangible, el precio es especulación y no es dada por un estado centralizado o ninguno por el estilo, los precios pueden ser desorbitantes a pesar del valor original que estas podrían tener, que es 0. En clase se ha dado el ejemplo del Lamborghini, donde una persona se gasta un dineral en el coche, para autentificar o justificar el pago, se le da un tiquet que confirma el hecho, pero el dueño decide vender el tiquet haciendo ver que esta vendiendo el coche. En este ejemplo el dueño le esta vendiendo un papel con letras sin valor alguno, ya que el coche ya estaría al nombre del dueño, con lo que se convertiría en una especie de estafa.
 
-# ¿Cómo se pueden utilizar?
-# ¿Cúal es su valor exacto?
+![me-acusan-de-estafa](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/45c64f15-36fa-4c1b-96a3-27a60f77ed38)
+
+
+# ¿Cómo se pueden utilizar (Criptomonedas/NFT)?
+Las criptomonedas hoy en dia son aceptadas como métodos de pago en una gran variedad de establecimientos, productos y servicios. Ejemplos:
+- Bienes y servicios en línea
+- Viajes
+- Entretenimiento
+- Arte y coleccionables
+- Alimentos y bebidas
+  
+![pagar-con-bitcoin](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/365537a6-9c30-4e70-9357-5841f99475d9)
+
 # Términos:
-### Fungible
-### No fungible
-### Transacción
-### Block chain
-### Minear
+### Fungible: 
+Fungible es un término utilizado para describir un bien que es intercambaible por otro bien con el mismo valor. Un ejemplo podría ser 1€ y 100 centimos.
+### No fungible:
+Se refiere a un bien que no es intercambiable por otro bien del mismo valor. Un bien no fungible es único, lo que querrá decir que no se puede reemplazar por otro con las mismas caracteristicas. Un ejemplo podría ser una obra de arte original como la Mona Lisa.
+### Transacción: 
+La transacción es pasar algo de valor de un punto x a otro punto y. 
+### Block chain:
+Block chain es un término utilizado en el campo de las criptomonedas, sirve como una base de datos donde todas las transacciones realizadas son públicas. El block chain proporciona transparencia, seguridad y al ser descentralizada habilita que muchos individuos puedan trabajar y validar las transacciones.
+### Minear:
+Es el proceso de validar y asegurar las transacciones usando el blockchain mediante la resolución de complejos problemas matemáticos. Se utiliza este proceso para la seguridad y la integridad de la red, y los mineros son recompensados ​​por su trabajo con nuevas unidades de la criptomoneda que están siendo minadas. En el mundo, solo se pueden hacer 15 transferencias por segundo.
