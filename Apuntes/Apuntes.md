@@ -2,20 +2,19 @@
 
 ![persona 5 city night](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/79f127a9-4c9f-4e7e-b3a5-de3cf9c29a1f)
 
-# La moneda virtual
+# La moneda Digital
 ## ¿Que es?
-La moneda virtual como lo dice el nombre mismo, es una moneda digital, lo que querrá decir que no es física a diferencai de las monedas tradicionales que se usan en el dia a dia. La moneda virtual por alguna manera se podría considerar como un nuevo tipo de moneda, una especie o un prototipo de evolución de la moneda tradicional misma. La moneda virtual se utilizan para hacer transacciones en línea, se pueden almacenar y transferir a través de sistemas informáticos y redes digitales. Se pueden caracterizar en dos maneras, en centralizadas o descentralizada.
+La moneda digital como lo dice el nombre mismo, es una moneda digital, lo que querrá decir que no es física a diferencai de las monedas tradicionales que se usan en el dia a dia. La moneda digital por alguna manera se podría considerar como un nuevo tipo de moneda, una especie o un prototipo de evolución de la moneda tradicional misma. La moneda digital se utilizan para hacer transacciones en línea, se pueden almacenar y transferir a través de sistemas informáticos y redes digitales. Se pueden caracterizar en dos maneras, en centralizadas o descentralizada.
 
 ![Captura de pantalla 2024-03-07 a las 23 39 25](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/fb6a7e47-a99f-44ad-9b53-2c5c4983ed73)
 
-**Centralizado**: En el contexto de moneda virtual, centralizado se refiere a un sistema en el que la emisión, el control y la gestión es tomada por una entidad centralizada, un ejemplo podría ser una empresa o el gobierno mismo.
+**Centralizado**: En el contexto de moneda digital, centralizado se refiere a un sistema en el que la emisión, el control y la gestión es tomada por una entidad centralizada, un ejemplo podría ser una empresa o el gobierno mismo.
 
 **Descentralizado**: Es totalmente lo contrario a centralizado, la moneda no está respaldada por alguna empresa o gobierno en especifico.
-## ¿Como funciona?
 
 # Criptomoneda
 ## ¿Que es?
-La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda virtual descentralizada utilizando el block chain, que es una especie de registro público donde a diferencia de las transacciones de los bancos que son privadas, en esta es pública. Aunque eso no signifique que la identidad del individuo será revelada, solo la transacción es pública. Como se ha podido ver, a lo largo de los años, la criptomoneda se ha vuelto muy popular entre la población, haciendo que su valor suba de una manera impredecible, actualmente en Marzo de 2024, su valor en el mercado sigue subiendo.
+La criptomoneda es un tipo de moneda, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda digital descentralizada utilizando el block chain, que es una especie de registro público donde a diferencia de las transacciones de los bancos que son privadas, en esta es pública. Aunque eso no signifique que la identidad del individuo será revelada, solo la transacción es pública. Como se ha podido ver, a lo largo de los años, la criptomoneda se ha vuelto muy popular entre la población, haciendo que su valor suba de una manera impredecible, actualmente en Marzo de 2024, su valor en el mercado sigue subiendo.
 
 ![im-storie-guia-para-saber-que-son-las-criptomonedas-3](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/f1926932-10d4-44ea-9af0-96c868e44971)
 
@@ -32,18 +31,19 @@ El momento más nototrio de la criptomoenda se remonta en el 2008, cuando unos i
 
 Bitcoin en el 8 de Marzo del 2024
 
-## Diferencia con la moneda virtual
-1. La moneda virtual suele ser emitida por una entidad centralizada, por otro lado, las criptomonedas dependen de la participación de la comunidad para sobrevivir.
+## Diferencia con la moneda digital
+1. La moneda digital suele ser emitida por una entidad centralizada, por otro lado, las criptomonedas dependen de la participación de la comunidad para sobrevivir.
 2. Las monedas virtuales viven en una base de datos dentralizada de internet, mientras que las criptomonedas se desarrollan con el blockchain.
-3. Las transacciones de criptomonedas es pública a diferencia de la moneda virtual, que suelen mantenerse en secreto.
+3. Las transacciones de criptomonedas es pública a diferencia de la moneda digital, que suelen mantenerse en secreto.
 4. El precio de las criptomonedas es impredecible, factor que lo convierte en especulación.
 5. En las transacciones de las monedas virtuales, se puede solicitar devoluciones, en cambio, en las criptomonedas, en su mayoría son irreversibles.
 6. La mayoría de los gobiernos establecen normativas claras para el uso de las monedas digitales, pero por el lado de las criptomonedas, los reguladores aún están en proceso de crear leyes.
    
 ![Captura de pantalla 2024-03-08 a las 10 20 43](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/87531fed-fc84-428c-a012-d57830482c34)
 
-
 # NFT
+![XS1Vpn0DfiMjxmLrBFNuXkFTAF78ek86eIoH4bK_VB0-1](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/5ec64263-a1fe-4154-b06d-d7725c76bf04)
+
 ## ¿Que es?
 
 # ¿Porque son consideradas una estafa?
