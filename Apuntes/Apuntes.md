@@ -15,14 +15,19 @@ La moneda virtual como lo dice el nombre mismo, es una moneda digital, lo que qu
 
 # Criptomoneda
 ## ¿Que es?
-La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda virtual descentralizada utilizando el block chain, que es una especie de registro público donde a diferencia de las transacciones de los bancos que son privadas, en esta es pública. Aunque eso no signifique que la identidad del individuo será revelada, solo la transacción es pública. Como se ha podido ver, a lo largo de los años, la criptomoneda se ha vuelto muy popular entre la población, haciendo que su valor suba de una manera impredecible, actualmente en Marzo de 2024, su valor en el mercado sigue subiendo
+La criptomoneda es un tipo de moneda virtual, cúal adopta la criptografía para asegurar y verificar las transacciones. Teniendo reféncia a los datos anteriormente mencionados, la criptomoneda es generalmente conocida por ser un tipo de moneda virtual descentralizada utilizando el block chain, que es una especie de registro público donde a diferencia de las transacciones de los bancos que son privadas, en esta es pública. Aunque eso no signifique que la identidad del individuo será revelada, solo la transacción es pública. Como se ha podido ver, a lo largo de los años, la criptomoneda se ha vuelto muy popular entre la población, haciendo que su valor suba de una manera impredecible, actualmente en Marzo de 2024, su valor en el mercado sigue subiendo.
 
 ![im-storie-guia-para-saber-que-son-las-criptomonedas-3](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/f1926932-10d4-44ea-9af0-96c868e44971)
+
+## ¿Como se creó?
+La creación de la criptomoneda se remonta a los años 1980, una de sus primeras prototipos, conocida como **eCash** desarrollada por **David Chaum**. Junto a esta, Chaum fundó la empresa **DigiCash** en 1990 para desarrollar la novedad y asi intentar comercializarla con otros individuos. Lo que buscaba Chaum era intentar desarrollar una novedad que hiciera un cambio en el mundo en el que vivia en ese entonces, implementar una nueva forma de pago. En este caso el eCash permitía a los usuarios relaizar pagos de manera segura y anónima, pero no se logró el impacto que buscaba y al final no triunfó el eCash. 
+
+![crew-1 1](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/9a150748-3300-4c25-bcf7-486a97a3186b)
+El momento más nototrio de la criptomoenda se remonta en el 2008, cuando unos individuos anónimos bajo el seudónimo de Sataoshi Nakamoto publicó un documento que se llamaba **Bitcoin**. Este fue creado por un sistema descentralizado con el blockchain, donde en 2009 un año después, sería publicada haciendola la primera criptomoneda funcional. Desde ese entonces su precio ha ido creciendo de una manera desorbitada a partir de más o menos 2020, aunque anteriormente su precio también alcanzó numeros altos. Hoy en dia en la actualidad, el Bitcoin ha escalado al valor de que un solo Bitcoin te puede valer **61543.32€**, a raíz de este, muchas más criptomonedas se han hecho popular, ejemplos como: Ethereum, Ripple, Litecoin...
+
+![Captura de pantalla 2024-03-08 a las 9 39 12](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/75ea2224-98c4-4a72-8f10-8edc7f0d4f8b)
+
 ## Diferencia con la moneda virtual
-## Ejemplo
-### Bitcoin
-#### Valor en el mercado
-![23673](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/7f92fa90-4508-4cb7-a10e-598afd395443)
 
 # NFT
 ## ¿Que es?
