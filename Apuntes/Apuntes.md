@@ -39,6 +39,8 @@ Bitcoin en el 8 de Marzo del 2024
 4. El precio de las criptomonedas es impredecible, factor que lo convierte en especulación.
 5. En las transacciones de las monedas virtuales, se puede solicitar devoluciones, en cambio, en las criptomonedas, en su mayoría son irreversibles.
 6. La mayoría de los gobiernos establecen normativas claras para el uso de las monedas digitales, pero por el lado de las criptomonedas, los reguladores aún están en proceso de crear leyes.
+   
+![Captura de pantalla 2024-03-08 a las 10 20 43](https://github.com/xinjiechen2006/Canal-del-gaming-del-bueno/assets/162314286/87531fed-fc84-428c-a012-d57830482c34)
 
 
 # NFT
